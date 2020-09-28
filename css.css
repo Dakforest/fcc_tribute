@@ -1,0 +1,30 @@
+body {
+	background-color: black;
+	color: #c9c9c9;
+}
+
+#main {
+	width: 90%;
+	margin:auto;
+	font-family: Merriweather;
+}
+
+#img-div {
+	width: 75%;
+	margin: auto;
+}
+
+img {
+	display: block;
+	max-width: 100%;
+}
+
+#title {
+	text-align: center;
+	font-family: sans-serif;
+}
+
+#img-caption {
+	text-align: right;
+	font-size: 12px;
+}
