@@ -1,6 +1,6 @@
 body {
 	background-color: black;
-	color: #c9c9c9;
+	color: #5f6d78;
 }
 
 #main {
@@ -27,4 +27,23 @@ img {
 #img-caption {
 	text-align: right;
 	font-size: 12px;
+}
+
+#timeline {
+	width:60%;
+	margin:auto;
+}
+
+p, li {
+	line-height:1.755em;
+}
+
+li {margin:1em;}
+
+strong, em {
+	color:#ffbb5d;
+}
+
+@media (max-width:800px){
+	#img-div{width:100%;}
 }
